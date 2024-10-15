@@ -12,7 +12,7 @@ def setup_logging():
         level=logging.INFO,
         format='%(asctime)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler("simulation.log"),
+            logging.FileHandler("../logs/simulation.log"),
             logging.StreamHandler()
         ]
     )
