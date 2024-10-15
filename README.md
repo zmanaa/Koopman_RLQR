@@ -1,5 +1,3 @@
-# Satellite Dynamics Simulation
-
 ## Overview
 
 Simulates satellite dynamics using Koopman operators and a Robust LQR Controller. Generates trajectories, computes Koopman operators, and visualizes results through various plots.
