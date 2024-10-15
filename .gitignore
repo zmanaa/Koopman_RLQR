@@ -2,17 +2,12 @@
 *.pyc
 __pycache__/
 
-# idea
-.idea
 
 # Virtual Environment
 venv/
 ENV/
 env/
 .venv/
-
-logs/
-*.log
 
 # Jupyter Notebooks
 *.ipynb_checkpoints
@@ -24,3 +19,4 @@ Thumbs.db
 # IDEs
 .vscode/
 .idea/
+
